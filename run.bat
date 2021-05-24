@@ -1,0 +1,1 @@
+"C:\Users\Cjhat\AppData\Local\Programs\Python\Python39\python.exe" "F:\Code\Python\Christopher's Python IDE\run.py"
